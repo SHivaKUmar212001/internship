@@ -1,0 +1,330 @@
+
+.img2{
+  position: absolute;
+  width: 67px;
+  height: 64px;
+  left: 163px;
+  top: 57px;
+}
+.h31{
+
+  position: absolute;
+  width: 100px;
+  height: 64px;
+  left: 258px;
+  top: -21px;
+
+  font-family: Red Hat Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 64px;
+  /* identical to box height */
+
+
+  color: #515050;
+}
+input{
+  border: None;
+  border-bottom: 1px solid black;
+
+}
+input:focus {
+  outline: None;
+}
+
+#firstName{
+
+  position: absolute;
+  width: 358px;
+  height: 32px;
+  left: 163px;
+  top: 320px;
+
+  font-family: Red Hat Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height */
+
+
+  color: #ACABAB;
+
+}
+#lastName{
+  position: absolute;
+  width: 358px;
+  height: 32px;
+  left: 163px;
+  top: 445px;
+
+  font-family: Red Hat Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height */
+
+
+  color: #ACABAB;
+
+}
+#Email{
+  position: absolute;
+  width: 358px;
+  height: 32px;
+  left: 163px;
+  top: 570px;
+
+  font-family: Red Hat Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height */
+
+
+  color: #ACABAB;
+}
+.intro{
+position: absolute;
+width: 605px;
+height: 48px;
+left: 163px;
+top: 118px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+
+color: #858484;position: absolute;
+
+}
+.firstName{
+  /* First Name */
+
+
+position: absolute;
+width: 117px;
+height: 32px;
+left: 163px;
+top: 219px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+.lastName{
+  position: absolute;
+width: 117px;
+height: 32px;
+left: 163px;
+top: 349px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+.email{
+
+position: absolute;
+width: 59px;
+height: 32px;
+left: 163px;
+top: 472px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+.middleline{
+
+position: absolute;
+width: 400px;
+height: 0px;
+left: 534px;
+top: 450px;
+
+border: 1px solid #C6C3C3;
+transform: rotate(90deg);
+}
+.website{
+position: absolute;
+width: 140px;
+height: 32px;
+left: 914px;
+top: 217px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+#website{
+  position: absolute;
+  width: 358px;
+  height: 32px;
+  left: 914px;
+  top: 297px;
+
+  font-family: Red Hat Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height */
+
+
+  color: #474747;
+}
+
+.pinterest{
+  position: absolute;
+width: 140px;
+height: 32px;
+left: 914px;
+top: 317px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+#pinterest{
+  position: absolute;
+width: 358px;
+height: 32px;
+left: 914px;
+top: 397px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+.instagram{
+  position: absolute;
+width: 140px;
+height: 32px;
+left: 914px;
+top: 417px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+#instagram{
+  position: absolute;
+width: 358px;
+height: 32px;
+left: 914px;
+top: 497px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+.behance{
+  position: absolute;
+width: 140px;
+height: 32px;
+left: 914px;
+top: 517px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+#behance{
+  position: absolute;
+width: 358px;
+height: 32px;
+left: 914px;
+top: 597px;
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #474747;
+}
+#arrow{
+position: absolute;
+width: 54px;
+height: 71px;
+left: 1223px;
+top: 650px;
+
+
+border-radius: 10px;
+}
+
+.bgrect{
+/* Rectangle 1 */
+position: absolute;
+width: 1440px;
+height: 911px;
+left: 0px;
+top: 108px;
+
+background: #FEFEFE;
+box-shadow: 4px 4px 4px 4px rgba(134, 134, 134, 0.25);
+}
